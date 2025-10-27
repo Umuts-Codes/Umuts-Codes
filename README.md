@@ -54,3 +54,22 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+
+
+
+
+
+
+<h3 align="center">Languages & Tools:</h3>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime" width="40" height="40" style="margin:0 10px;" /></a>
+  
+  <!-- Notepad++ -->
+  <span style="display:inline-block; text-align:center; margin:0 5px;">
+    <img src="https://notepad-logo.tiiny.site/png/Notepad-logo" width="40" height="40" alt="Notepad++ Logo"/>
+    <br>
+    <span style="font-size:12px;">Notepad++</span>
+  </span>
+</p>
+

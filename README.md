@@ -27,4 +27,5 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-<p align="center">Notepad++</p>
+<p style="font-family:Arial, sans-serif; font-size:16px; color:#00FF00;">Notepad++</p>
+

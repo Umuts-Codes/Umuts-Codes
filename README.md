@@ -78,7 +78,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" /></a>
  <img src="https://github.com/user-attachments/assets/51594520-c57c-4f16-a27d-1eee053564e0" 
      width="150" height="150" alt="Notepad-logo" 
-     style="position: relative; left: -20px;" />
+     style="position: relative; left: 60px;" />
   </p>
 
 

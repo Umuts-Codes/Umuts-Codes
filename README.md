@@ -42,7 +42,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
   </p>
 
 
-<img width="730" height="382" alt="Notepad-logo" src="https://github.com/user-attachments/assets/51594520-c57c-4f16-a27d-1eee053564e0" />
+<img width="40" height="40" alt="Notepad-logo" src="https://github.com/user-attachments/assets/51594520-c57c-4f16-a27d-1eee053564e0" />
 
 
 

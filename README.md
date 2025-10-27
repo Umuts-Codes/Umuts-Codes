@@ -21,7 +21,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-<span style="display:flex; flex-direction:column; align-items:center; margin:5px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" right="40" height="40" />
+<span style="display:flex; flex-direction:column; right:40px; align-items:center; margin:5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40" />
   <span style="color:#00FF00; font-size:12px;">Notepad++</span>
 </span>

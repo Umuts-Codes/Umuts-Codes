@@ -18,8 +18,3 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 </p>
 
 
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime&perline=6" /></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Notepad++_Logo.svg" alt="Notepad++" width="40" height="40" style="margin-left:5px"/>
-</p>

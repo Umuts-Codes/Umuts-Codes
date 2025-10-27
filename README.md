@@ -23,3 +23,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+
+
+
+<h3 align="center">Connect with me:</h3>

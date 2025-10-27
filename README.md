@@ -18,7 +18,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 ##  📌/root
 
-<strong>🔍 Working on:</strong>       <br><br>
+<strong>🔍 Working on: </strong> Web Development, Mobile Apps, Automation Scripts, Machine Learning, 2D Pixel Games<br><br>
 <strong>📚 Learning: </strong> C#, Unity, Kotlin, SQLite <br><br>
 <strong>🛠️ Tools: </strong> Pyhton, Flask, Sublime text, HTML, CSS, JavaScript, Notepad++ <br><br>
 

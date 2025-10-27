@@ -26,4 +26,14 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+
 <h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.facebook.com/umut.hortoglu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/umut_silverback/" target="_blank" style="margin-left:10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>

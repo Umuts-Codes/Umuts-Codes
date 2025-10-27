@@ -18,11 +18,6 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 ##  📌/root
 
-
-<strong>🔍 Working on:</strong><br>
-<strong>📚 Learning:</strong><br>
-<strong>🛠️ Tools:</strong><br>
-
 <strong>🔍 Working on:</strong><br><br>
 <strong>📚 Learning:</strong><br><br>
 <strong>🛠️ Tools:</strong><br><br>

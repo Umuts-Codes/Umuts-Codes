@@ -23,10 +23,6 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 <strong>🛠️ Tools:</strong><br><br>
 
 
-<strong>🔍 Working on:</strong>&nbsp;<br>
-<strong>📚 Learning:</strong>&nbsp;<br>
-<strong>🛠️ Tools:</strong>&nbsp;<br>
-
 
 <br><br>
 

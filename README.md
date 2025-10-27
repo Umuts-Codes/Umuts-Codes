@@ -14,5 +14,5 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 <h3 align="center">Languages & Tools:</h3>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublimetext,notepadplusplus&perline=6" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime,notepad++&perline=6" /></a>
 </p>

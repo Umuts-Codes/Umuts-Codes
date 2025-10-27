@@ -22,9 +22,9 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime" /></a>
   
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40" style="vertical-align:middle;" />
     <br/>
-    <span style="color:#00FF00; right:20px;">Notepad++</span>
+    <span style="color:#00FF00;">Notepad++</span>
   </p>
 </p>
 

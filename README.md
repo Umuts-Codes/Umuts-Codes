@@ -27,5 +27,6 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-<p style=" left: 20px; font-size:12px; color:#00FF00;">Notepad++</p>
+<p style="position: relative; left: 80%; font-size:12px; color:#00FF00;">Notepad++</p>
+
 

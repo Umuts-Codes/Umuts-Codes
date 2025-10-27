@@ -35,17 +35,6 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime" /></a>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
-  <br>
-    <span style="color:#00FF00; font-size:12px; position: flex; right: 20px;">Notepad++</span>
-</p>
-
-
-
-
-
 
 
 
@@ -63,75 +52,3 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="center">Languages & Tools:</h3>
-
-<p align="center">
-  <!-- HTML -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  </span>
-
-  <!-- CSS -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  </span>
-
-  <!-- JavaScript -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40"/>
-  </span>
-
-  <!-- Flask -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/>
-  </span>
-
-  <!-- Python -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
-  </span>
-
-  <!-- C# -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/>
-  </span>
-
-  <!-- Unity -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=unity" width="40" height="40"/>
-  </span>
-
-  <!-- WordPress -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40"/>
-  </span>
-
-  <!-- SQLite -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/>
-  </span>
-
-  <!-- Sublime -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://skillicons.dev/icons?i=sublime" width="40" height="40"/>
-  </span>
-
-<p align="center">
-  <!-- Notepad++ ikonu ve yazısı -->
-  <span style="display:inline-flex; flex-direction:column; align-items:center; margin:0 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" width="40" height="40"/>
-    <span style="color:#00FF00; font-size:12px;">Notepad++</span>
-  </span>
-</p>

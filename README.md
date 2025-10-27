@@ -51,7 +51,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
   <img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime" alt="Icons" width="40" height="40" style="margin:0 10px;"/>
 
   <!-- Notepad++ özel -->
-  <span style="display:inline-block; text-align:center; margin:0 10px;">
+  <span style="display:inline-flex; text-align:center; margin:0 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
     <br/>
     <span style="font-size:12px; color:#00FF00;">Notepad++</span>

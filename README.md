@@ -43,4 +43,17 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+<p align="center">
+  <!-- Diğer ikonlar -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime" width="40" height="40" style="margin:0 10px;" />
+
+  <!-- Notepad++ ikonu ve yazısı -->
+  <span style="display:inline-block; text-align:center; margin:0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
+    <br>
+    <span style="color:#00FF00; font-size:12px;">Notepad++</span>
+  </span>
+</p>
+
+
 

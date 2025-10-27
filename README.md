@@ -16,8 +16,12 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+##  📌/root
 
-📌/root
+🧠 Working on: UI/UX & Web Automation SaaS platform  
+📚 Learning: JavaScript, Python, Flask  
+🛠️ Tools: Figma, GitHub, VS Code, Notepad++
+
 
 
 

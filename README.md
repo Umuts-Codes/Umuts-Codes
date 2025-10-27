@@ -81,31 +81,3 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="center">Languages & Tools:</h3>
-
-<p align="center">
-  <!-- Diğer ikonlar -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" width="40" height="40" style="margin:0 5px;" /></a>
-
-  <!-- Notepad++ -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
-    <img src="https://github.com/user-attachments/assets/51594520-c57c-4f16-a27d-1eee053564e0" width="40" height="40" alt="Notepad++ Logo"/>
-    <br>
-    <span style="font-size:12px;">Notepad++</span>
-  </span>
-</p>
-
-

@@ -18,3 +18,4 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 </p>
 
 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>

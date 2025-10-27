@@ -71,3 +71,17 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+
+
+
+
+
+
+<h3 align="center">Languages & Tools:</h3>
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,sublime" /></a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
+  <span style="color:#00FF00; font-size:12px;">Notepad++</span>
+</p>
+

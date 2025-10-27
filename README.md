@@ -128,10 +128,10 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
     <img src="https://skillicons.dev/icons?i=sublime" width="40" height="40"/>
   </span>
 
-  <!-- Notepad++ -->
-  <span style="display:inline-block; text-align:center; margin:0 5px;">
+<p align="center">
+  <!-- Notepad++ ikonu ve yazısı -->
+  <span style="display:inline-flex; flex-direction:column; align-items:center; margin:0 5px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" width="40" height="40"/>
-    <br>
     <span style="color:#00FF00; font-size:12px;">Notepad++</span>
   </span>
 </p>

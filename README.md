@@ -30,7 +30,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 <p style="position: relative; right: 80%; font-size:12px; color:#00FF00;">Notepad++</p>
 
 
-<div style="display: flex; justify-content: flex-end; width: 100%;">
-  <p style="font-size:12px; color:#00FF00; margin:0;">Notepad++</p>
-</div>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Notepad++
 

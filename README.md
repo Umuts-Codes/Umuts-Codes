@@ -20,3 +20,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+<div style="display:inline-block; text-align:center; margin:5px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
+  <div style="font-size:12px;">Notepad++</div>
+</div>

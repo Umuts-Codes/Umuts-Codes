@@ -73,23 +73,3 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-
-
-
-
-<br><br><br>
-
-
-
-
-<h3 align="center">Languages & Tools:</h3>
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" /></a>
-  <img 
-    width="150" height="150" alt="2Notepad++" 
-    src="https://github.com/user-attachments/assets/437ad267-b560-4837-acac-cc406ebd781e" 
-    style="position: relative; right: 35px;" 
-  />
-</p>
-

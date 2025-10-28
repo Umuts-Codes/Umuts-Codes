@@ -41,7 +41,8 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" /></a>
-   <img src="assets/2Notepad++.png" width="143" height="143" alt="Notepad++" />
+   <img src="assets/2Notepad++.png" alt="Notepad++" />
+
   </p>
 
 

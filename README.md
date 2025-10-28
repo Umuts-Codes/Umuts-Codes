@@ -46,7 +46,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-<img src="assets/2Notepad++.png" width="40" height="40" alt="Notepad++" />
+<img src="assets/2Notepad++.png" width="150" height="150" alt="Notepad++" />
 
 
 

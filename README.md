@@ -84,16 +84,15 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-
-
-
 <h3 align="center">Languages & Tools:</h3>
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" /></a>
-  <a href="https://notepad-plus-plus.org/" rel="nofollow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" 
-         alt="Notepad++" width="72" height="48" style="margin-right:20px;">
-  </a>
+  <span style="display:inline-block; transform: translateX(-4px);">
+    <a href="https://notepad-plus-plus.org/" rel="nofollow">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" 
+           alt="Notepad++" width="72" height="48">
+    </a>
+  </span>
 </p>
 

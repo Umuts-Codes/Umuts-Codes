@@ -41,7 +41,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" /></a>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/notepadplusplus.svg" alt="Notepad++" width="40" height="40"/>
+  <img width="150" height="150" alt="2Notepad++" src="https://github.com/user-attachments/assets/437ad267-b560-4837-acac-cc406ebd781e" />
   </p>
 
 
@@ -50,6 +50,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 <img width="150" height="150" alt="2Notepad++" src="https://github.com/user-attachments/assets/437ad267-b560-4837-acac-cc406ebd781e" />
+
 
 
 

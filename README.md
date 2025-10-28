@@ -78,5 +78,5 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,flask,python,cs,unity,wordpress,sqlite,kotlin,sublime" /></a>
-  <img src="https://github.com/Umuts-Codes/Umuts-Codes/raw/main/assets/2Notepad++.png" alt="Notepad++" width="144" height="144" />
+  <img src="https://github.com/Umuts-Codes/Umuts-Codes/raw/main/assets/2Notepad++.png" alt="Notepad++" width="140" height="140" />
 </p>

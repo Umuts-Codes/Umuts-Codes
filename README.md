@@ -49,6 +49,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+<img width="150" height="150" alt="2Notepad++" src="https://github.com/user-attachments/assets/437ad267-b560-4837-acac-cc406ebd781e" />
 
 
 
@@ -57,6 +58,9 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+
+
+<br><br><br><br><br><br>
 
 
 

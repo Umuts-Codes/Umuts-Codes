@@ -47,6 +47,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
+<img src="https://img.icons8.com/ios/452/notepad.png" alt="Notepad++" width="144" height="144" />
 
 
 

@@ -57,7 +57,7 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 <a href="https://notepad-plus-plus.org/" rel="nofollow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="Notepad++" width="144" height="144">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Notepad%2B%2B_Logo.svg" alt="Notepad++" width="62" height="57">
 </a>
 
 

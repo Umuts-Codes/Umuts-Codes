@@ -92,20 +92,20 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 <table align="center">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" width="144" height="144" alt="HTML"></td>
-    <td><img src="https://skillicons.dev/icons?i=css" width="144" height="144" alt="CSS"></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS"></td>
     <td><img src="https://skillicons.dev/icons?i=javascript" width="144" height="144" alt="JavaScript"></td>
     <td><img src="https://skillicons.dev/icons?i=flask" width="144" height="144" alt="Flask"></td>
     <td><img src="https://skillicons.dev/icons?i=python" width="144" height="144" alt="Python"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=cs" width="144" height="144" alt="C#"></td>
-    <td><img src="https://skillicons.dev/icons?i=unity" width="144" height="144" alt="Unity"></td>
-    <td><img src="https://skillicons.dev/icons?i=wordpress" width="144" height="144" alt="WordPress"></td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite" width="144" height="144" alt="SQLite"></td>
-    <td><img src="https://skillicons.dev/icons?i=kotlin" width="144" height="144" alt="Kotlin"></td>
+    <td><img src="https://skillicons.dev/icons?i=cs" width="44" height="44" alt="C#"></td>
+    <td><img src="https://skillicons.dev/icons?i=unity" width="44" height="44" alt="Unity"></td>
+    <td><img src="https://skillicons.dev/icons?i=wordpress" width="44" height="44" alt="WordPress"></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" width="44" height="44" alt="SQLite"></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin" width="44" height="44" alt="Kotlin"></td>
   </tr>
   <tr>
-    <td colspan="5"><img src="assets/2Notepad++.png" width="144" height="144" alt="Notepad++"></td>
+    <td colspan="5"><img src="assets/2Notepad++.png" width="44" height="44" alt="Notepad++"></td>
   </tr>
 </table>

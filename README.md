@@ -58,39 +58,6 @@ I have a deep passion a Web Development & UI/UX Design passionate about building
 
 
 
-<img 
-  src="https://github.com/user-attachments/assets/437ad267-b560-4837-acac-cc406ebd781e" 
-  width="150" height="150" alt="2Notepad++"
-  style="position: relative; left: 60px;" 
-/>
-
-
-
-
-
-
-
-
-<p align="center">
-  <span style="margin-left: 40px;">
-    <img width="150" height="150" alt="2Notepad++" src="https://github.com/user-attachments/assets/437ad267-b560-4837-acac-cc406ebd781e" />
-  </span>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br><br><br><br
               
